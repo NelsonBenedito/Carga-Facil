@@ -1,0 +1,6 @@
+{
+  "name": "CargaFácil",
+  "description": "Plataforma web de gestão e conferência de cargas. Sua carga no controle, sempre. Simples, prático e eficiente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
